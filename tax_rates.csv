@@ -1,0 +1,6 @@
+Código del país,Código de provincia,Código postal,Ciudad,Tarifa %,Nombre del impuesto,Prioridad,Compuesto,Envío,Clase de impuesto
+ES,CE,,,0.0000,SIN IVA,1,1,1,
+ES,GC,,,0.0000,SIN IVA,1,1,1,
+ES,ML,,,0.0000,SIN IVA,1,1,1,
+ES,TF,,,0.0000,SIN IVA,1,1,1,
+ES,,,,21.0000,21% IVA,1,0,1,
